@@ -1,4 +1,4 @@
-<img src = "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__340.jpg">
+<img src ="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 <h1 align="center">Hi 👋, I'm Dilusha Ekanayaka</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
